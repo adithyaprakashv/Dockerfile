@@ -1,0 +1,4 @@
+FROM almalinux:8
+LABEL order= briyani
+      Restarunt = shagose
+      cost = 425
