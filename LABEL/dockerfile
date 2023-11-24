@@ -1,4 +1,4 @@
 FROM almalinux:8
-LABEL order= "briyani"
-      Restarunt = shagose
-      cost = 425
+LABEL ORDER=BRIYANI \
+      RESTARUNT=PARADISE \
+      COST=425
